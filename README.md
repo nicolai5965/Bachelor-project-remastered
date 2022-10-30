@@ -1,2 +1,2 @@
 # Bachelor-project-remastered
-This repository is a newer version of my bachelor project with my classmate Simon. I found that some of the code that we did in the first try where really slow and could be done better.
+This repository is a newer version of my bachelor project with my classmate Simon. I found that some of the code that we did in the first try where really slow and could be done better. I have gotten the code down to a couple of minutes from taking hours. The worst part was finding the connection between the nodes. One can also make the MLP take hours, but it depends on the parameters one is training the MLP on. 
